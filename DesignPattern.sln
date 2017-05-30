@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharrp", "CSharrp", "{825B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample", "Others\CSharp\Delegate\DelegateExample\DelegateExample.csproj", "{9F82F741-CBA6-4A1B-9049-686ECF15D851}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventExample", "Others\CSharp\EventExample\EventExample.csproj", "{DD6E833B-CE3E-4D5B-A9CE-BFB1C2DF4177}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{9F82F741-CBA6-4A1B-9049-686ECF15D851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F82F741-CBA6-4A1B-9049-686ECF15D851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F82F741-CBA6-4A1B-9049-686ECF15D851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6E833B-CE3E-4D5B-A9CE-BFB1C2DF4177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6E833B-CE3E-4D5B-A9CE-BFB1C2DF4177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6E833B-CE3E-4D5B-A9CE-BFB1C2DF4177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6E833B-CE3E-4D5B-A9CE-BFB1C2DF4177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,5 +39,6 @@ Global
 		{6D133CAE-DFE7-4E42-921A-4BE44124F9E8} = {6A5BD473-C59D-45F2-9B35-1CAE84CD3F85}
 		{825BF97D-9AC6-4A47-9F9C-7826F3A6BA9E} = {6A5BD473-C59D-45F2-9B35-1CAE84CD3F85}
 		{9F82F741-CBA6-4A1B-9049-686ECF15D851} = {825BF97D-9AC6-4A47-9F9C-7826F3A6BA9E}
+		{DD6E833B-CE3E-4D5B-A9CE-BFB1C2DF4177} = {825BF97D-9AC6-4A47-9F9C-7826F3A6BA9E}
 	EndGlobalSection
 EndGlobal
